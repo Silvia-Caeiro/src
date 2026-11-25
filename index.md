@@ -1,1 +1,83 @@
-archivo de inicio
+<!DOCTYPE html> 
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Jardín de bajo mantenimiento</h1>
+    <h2>Cómo crear un jardín de bajo mantenimiento</h2>
+    <img src="Jardines_basicos.png" alt="Descripción de la imagen" />
+
+    <h3>Un jardín fácil de mantener</h3>
+    <p>Tener un jardín bonito no significa necesariamente dedicarle muchas horas. Con una buena planificación es posible crear un espacio verde atractivo, agradable y fácil de cuidar durante todo el año.</p>
+    <p>La clave está en elegir correctamente el lugar, seleccionar plantas adaptadas a las condiciones del espacio y organizar el riego y el mantenimiento desde el principio. Un jardín de bajo mantenimiento no es un jardín sin cuidados: es un jardín diseñado para necesitar menos trabajo</p>
+    <br>
+
+    <h3>Elegir el lugar</h3>
+    <p>Antes de comprar plantas, conviene observar durante algunos días cómo se comporta el espacio. La cantidad de horas de sol, la circulación del agua y la calidad del suelo determinarán qué especies podrán crecer con mayor facilidad.</p>
+    <p>También es importante considerar el tamaño disponible. En un jardín pequeño, agrupar las plantas y dejar zonas despejadas puede facilitar considerablemente las tareas de limpieza y riego.</p>
+    <p>Algunos aspectos que conviene analizar son:</p>
+    <ul>
+      <li>Cantidad de horas de sol directo</li>
+      <li>Zonas de sombra permanente o parcial</li>
+      <li>Tipo y drenaje del suelo.</li>
+      <li>Disponibilidad de agua</li>
+      <li>Protección frente al viento</li>
+      <li>Espacio disponible para que las plantas crezcan</li>
+    </ul>
+    <h3>Seleccionar las plantas</h3>
+    <p>Una de las mejores estrategias para reducir el mantenimiento es elegir plantas que se adapten naturalmente al clima y a las condiciones del jardín. Una especie que necesita demasiada agua, sombra o cuidados especiales requerirá más trabajo para mantenerse saludable</p>
+    <p>También conviene evitar llenar el espacio con demasiadas variedades diferentes. Repetir algunas especies crea un jardín visualmente más ordenado y simplifica el riego, la poda y el control de plagas.</p><br><hr>
+    <br>
+    <h4>Plantas de sol</h4>
+    <p>Las zonas que reciben varias horas de sol directo pueden aprovecharse con especies resistentes y acostumbradas a condiciones luminosas.</p>
+    <p>Algunas opciones son:</p>
+    <ul>
+      <li>Lavanda</li>
+      <li>Romero</li>
+      <li>Salvia</li>
+      <li>Portulaca</li>
+      <li>Calas</li>
+      <li>Lirios</li>
+      <li>Laurel</li>
+    </ul>
+    <img src="lavanda.png" alt="Descripción de la imagen" />
+    <br>
+    <h4>Plantas de sombra</h4>
+    <p>Las áreas con poca luz también pueden convertirse en espacios verdes atractivos. En estos sectores es preferible elegir plantas que toleren la sombra o la semisombra en lugar de intentar adaptar especies que necesitan sol directo.</p>
+    <p>Algunas alternativas son:</p>
+    <ul>
+      <li>Helechos</li>
+      <li>Potus</li>
+      <li>Filodendro</li>
+      <li>Areca</li>
+      <li>Monstera</li>
+      <li>Azalea</li>
+      <li>Lazos de amor</li>
+    </ul>
+    <img src="potus.png" alt="Descripción de la imagen" />
+    <p>La sombra no significa necesariamente ausencia de luz: muchas plantas crecen perfectamente con iluminación indirecta o algunas horas de sol suave</p><br><hr>
+    <h3>Tareas de mantenimiento</h3>
+    <p>Una rutina organizada permite mantener el jardín en buenas condiciones sin convertir la jardinería en una tarea agotadora.</p>
+
+    <ol>
+      <li><b>Revisar las plantas</b> y detectar hojas secas, daños o signos de plagas.</li>
+      <li><b>Regar</b> las especies que lo necesiten, teniendo en cuenta la temperatura y las lluvias recientes.</li>
+      <li><b>Retirar hojas y flores secas</b> para mantener el espacio limpio</li>
+      <li><b>Eliminar las malezas</b> que aparezcan alrededor de las plantas</li>
+      <li><b>Podar</b> las especies que lo requieran en la época adecuada</li>
+      <li><b>Revisar el suelo</b> y agregar materia orgánica cuando sea necesario.</li>
+      <li><b>Limpiar las herramientas</b> después de utilizarlas y guardarlas en un lugar seco.</li>
+    </ol>
+    <h3>Un jardín pensado para disfrutar</h3>
+    <p>El objetivo de un jardín de bajo mantenimiento no es eliminar por completo las tareas de jardinería, sino conseguir que el tiempo dedicado al cuidado sea razonable. Una buena selección de plantas y una distribución práctica permiten dedicar menos tiempo al trabajo y más tiempo a disfrutar del espacio.</p>
+    <p>Un jardín sencillo, saludable y bien planificado puede convertirse en uno de los rincones más agradables de una casa, incluso cuando no se dispone de mucho tiempo para cuidarlo.</p><br><hr>
+
+    <h4>FUENTES Y REFERENCIAS</h4>
+    <p><small><b>Guía práctica de jardinería sostenible</b> — Instituto Argentino de Horticultura, 2025.</small><br>
+      <small><b>Manual de plantas resistentes y de bajo mantenimiento</b> — Revista Jardín &amp; Naturaleza, Nº 48, 2024.</small><br>
+      <small><b>Diseño de jardines domésticos</b> — Centro de Estudios de Paisajismo y Jardinería, Buenos Aires, 2025.</small></p>
+
+
+  </body>
+</html>archivo de inicio
