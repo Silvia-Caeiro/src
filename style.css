@@ -1,29 +1,37 @@
 body {
   background: rgba(210, 231, 206, 0.72);
+  margin: 60px 60px;
 }
 p {
   color: black;
+  font-family: arial;
 }
 h1 {
   text-align: center;
-  color: darkgreen;
+  color: #0f870f;
   text-decoration: underline;
   font-family: arial;
   font-weight: bold;
 }
 
 h2 {
+  text-shadow: 2px 2px 4px gray;
+  text-align: center;
   font-weight: 300;
   color: darkcyan;
   font-family: arial;
 }
 
 h3 {
+  color: #3f8a8a;
   font-weight: bold;
-}
+  font-family: arial;
+  }
 
 h4 {
+  color: #3f8a8a;
   font-weight: bold;
+  font-family: arial;
 }
 
 img {
@@ -31,4 +39,7 @@ img {
   width: 400px;
   height: auto;
   margin: auto;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+  max-width: 100%; 
 }
